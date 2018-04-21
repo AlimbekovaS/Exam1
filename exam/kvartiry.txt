@@ -1,0 +1,9 @@
+1 2 52 10000 available
+2 2 54 11000 available
+3 2 55 11000 available
+4 3 84 15000 available
+5 3 86 15000 available
+6 4 98 16000 available
+7 1 43 8000 available
+8 1 45 8000 available
+9 2 68 1000 available
